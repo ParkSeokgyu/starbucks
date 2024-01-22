@@ -47,9 +47,6 @@
 }
 
 /* Notice */
-.notice {
-
-}
 .notice .notice-line {
   position: relative;
 }
@@ -288,9 +285,6 @@
   height: 0;
   padding-top: 56.25%
 }
-.youtube .youtube__area .player {
-  
-}
 .youtube .youtube__cover {
   background-image:url("../images/video_cover_pattern.png");
   background-color: rgba(0, 0, 0, 0.3);
@@ -308,9 +302,6 @@
   left: 0;
 }
 
-.youtube .youtube__cover {
-
-}
 .youtube .youtube__cover .inner { 
   height: 700px;  
 }
@@ -368,9 +359,7 @@
   top: 124px;
   left: 208px;
 }
-.reserve-coffee .inner .text-group .description {
-  
-}
+
 .reserve-coffee .inner .product {
   position: absolute;
   top: 30;

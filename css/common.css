@@ -194,9 +194,6 @@ header .main-menu {
   bottom: 0;
   z-index: 1;
 }
-header .main-menu .item {
-
-}
 header .main-menu .item .item__name {
   padding: 10px 20px 34px 20px;
   font-family: Arial, sans-serif;
@@ -244,9 +241,6 @@ header .main-menu .item .item__contents .contents__texture {
   padding: 26px 0;
   font-size: 12px;
   background-image: url("../images/main_menu_pattern.jpg");
-}
-header .main-menu .item .item__contents .contents__texture .inner {
-  
 }
 header .main-menu .item .item__contents .contents__texture .inner h4 {
   color: #999;
